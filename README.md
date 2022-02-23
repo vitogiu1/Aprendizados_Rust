@@ -16,7 +16,7 @@ Aqui ficará todo meu aprendizado em Rust!
 
 **OBS: Você precisa ter o rust instalado previamente ,_,**
 
-**Todos or projetos são compativeis com windows e linux.**
+**Todos os projetos são compativeis com windows e linux.**
 
 
 
