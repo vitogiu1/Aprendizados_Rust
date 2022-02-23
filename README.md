@@ -1,6 +1,6 @@
 # `💭 Rust`
 
-Aqui irão ficar tudo que eu aprender em rust!
+Aqui ficará todo meu aprendizado em Rust!
 --
 
 # `💻 Projetos`
